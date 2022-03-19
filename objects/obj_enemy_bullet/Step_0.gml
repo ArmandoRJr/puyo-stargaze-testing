@@ -1,0 +1,3 @@
+image_angle = direction
+//Is that good code? I have no idea...
+

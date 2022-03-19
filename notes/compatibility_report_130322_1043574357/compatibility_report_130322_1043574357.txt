@@ -1,0 +1,10 @@
+Font ascii_font has been converted to font family Basic Engine ASCII (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\ascii_font\ascii_font.gms1.png
+Missing audiogroup for sound: 'snd_explosion' - setting to default audio group
+Missing audiogroup for sound: 'snd_hurt' - setting to default audio group
+Missing audiogroup for sound: 'snd_laser' - setting to default audio group
+Missing audiogroup for sound: 'snd_menu' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script '__global_object_depths.gml'
