@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_hurt",
-  "duration": 0.0,
+  "duration": 0.127052,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

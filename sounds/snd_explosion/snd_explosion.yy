@@ -1,7 +1,7 @@
 {
   "conversionMode": 0,
   "compression": 0,
-  "volume": 0.1,
+  "volume": 0.02,
   "preload": true,
   "bitRate": 192,
   "sampleRate": 44100,
@@ -12,7 +12,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "snd_explosion",
-  "duration": 0.0,
+  "duration": 0.4822,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

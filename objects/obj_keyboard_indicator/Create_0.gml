@@ -16,3 +16,6 @@ x_key = instance_create(x+20, y+10, obj_keyboard_key)
 x_key.sprite_index = spr_keyboard_x;
 x_key.bool_to_check = key_hold_right;
 
+shift_key = instance_create(x-70, y+10, obj_keyboard_key)
+shift_key.sprite_index = spr_keyboard_shift;
+shift_key.bool_to_check = key_hold_focus;

@@ -1,5 +1,5 @@
 if (hp <= 0){
-    audio_play_sound(snd_explosion,0,false);
+    audio_play_sound(snd_enm_explode,0,false);
     instance_destroy();
     global.points += 50;
 }
@@ -11,7 +11,7 @@ if (hit != noone){
     hp -= hit.hp;
     instance_destroy(hit);
     sprite_index = spr_enemy_hurt;
-    audio_play_sound(snd_hurt,1,false);
+    audio_play_sound(snd_enm_hit,1,false);
     alarm[0] = 2;
 }
 
